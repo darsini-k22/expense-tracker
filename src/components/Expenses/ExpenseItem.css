@@ -1,0 +1,7 @@
+.btn{
+    @apply text-red-500 text-3xl
+}
+
+.price{
+    @apply font-bold text-white p-3 text-2xl rounded-2xl border-2
+}
